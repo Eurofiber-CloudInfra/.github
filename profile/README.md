@@ -5,4 +5,4 @@ Eurofiber Cloud Infra is part of the Eurofiber Group and a fusion of three subsi
 
 <hr />
 
-We :heart: open source software and engineering challenges. Are you a devops ninja or just trapped between coding and infrastructure? Read out to work@cloudinfra.engineer.
+We :heart: open source software and engineering challenges. Are you a devops ninja or just trapped between coding and infrastructure? Reach out to work@cloudinfra.engineer.
